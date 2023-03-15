@@ -1,0 +1,19 @@
+body {
+    background-color:#81ecec;
+}
+div {
+    background-color: whitesmoke;
+    width: 600px;
+    border-radius: 20px;
+}
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+p {
+    font-size: 20px;
+}
+button {
+    height:30px;
+    width:90px;
+    background-color:#D6A2E8;
+}
